@@ -8,3 +8,6 @@
 
 ## README.MD is now REACT.md
 ### README.md file contain list of branches and short info about  
+
+# create dev branch
+> react-auth$ git checkout -b dev
