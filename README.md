@@ -11,3 +11,8 @@
 
 # create dev branch
 > react-auth$ git checkout -b dev
+
+# BRANCHES
+- ## dev
+- ## - firebase
+- ## -- emulator
